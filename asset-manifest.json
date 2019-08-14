@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/http--01-starting-setup/static/css/main.5f82d7ff.chunk.css",
-    "main.js": "/http--01-starting-setup/static/js/main.684011ac.chunk.js",
-    "main.js.map": "/http--01-starting-setup/static/js/main.684011ac.chunk.js.map",
-    "runtime~main.js": "/http--01-starting-setup/static/js/runtime~main.fdd1cdd4.js",
-    "runtime~main.js.map": "/http--01-starting-setup/static/js/runtime~main.fdd1cdd4.js.map",
-    "static/js/2.5acdcbe3.chunk.js": "/http--01-starting-setup/static/js/2.5acdcbe3.chunk.js",
-    "static/js/2.5acdcbe3.chunk.js.map": "/http--01-starting-setup/static/js/2.5acdcbe3.chunk.js.map",
+    "main.css": "/http--01-starting-setup/static/css/main.8c58686e.chunk.css",
+    "main.js": "/http--01-starting-setup/static/js/main.1235dc60.chunk.js",
+    "main.js.map": "/http--01-starting-setup/static/js/main.1235dc60.chunk.js.map",
+    "runtime~main.js": "/http--01-starting-setup/static/js/runtime~main.641fdae6.js",
+    "runtime~main.js.map": "/http--01-starting-setup/static/js/runtime~main.641fdae6.js.map",
+    "static/js/2.8831fbd1.chunk.js": "/http--01-starting-setup/static/js/2.8831fbd1.chunk.js",
+    "static/js/2.8831fbd1.chunk.js.map": "/http--01-starting-setup/static/js/2.8831fbd1.chunk.js.map",
+    "static/css/3.c473469c.chunk.css": "/http--01-starting-setup/static/css/3.c473469c.chunk.css",
+    "static/js/3.da9e0f60.chunk.js": "/http--01-starting-setup/static/js/3.da9e0f60.chunk.js",
+    "static/js/3.da9e0f60.chunk.js.map": "/http--01-starting-setup/static/js/3.da9e0f60.chunk.js.map",
     "index.html": "/http--01-starting-setup/index.html",
-    "precache-manifest.23d7522d5eb82bcb89db6a256c632f24.js": "/http--01-starting-setup/precache-manifest.23d7522d5eb82bcb89db6a256c632f24.js",
+    "precache-manifest.42a9f9e818568b29dc9530c420b3ad23.js": "/http--01-starting-setup/precache-manifest.42a9f9e818568b29dc9530c420b3ad23.js",
     "service-worker.js": "/http--01-starting-setup/service-worker.js",
-    "static/css/main.5f82d7ff.chunk.css.map": "/http--01-starting-setup/static/css/main.5f82d7ff.chunk.css.map"
+    "static/css/3.c473469c.chunk.css.map": "/http--01-starting-setup/static/css/3.c473469c.chunk.css.map",
+    "static/css/main.8c58686e.chunk.css.map": "/http--01-starting-setup/static/css/main.8c58686e.chunk.css.map"
   }
 }
