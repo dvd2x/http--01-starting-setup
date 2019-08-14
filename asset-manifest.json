@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/http--01-starting-setup/static/css/main.8c58686e.chunk.css",
-    "main.js": "/http--01-starting-setup/static/js/main.1235dc60.chunk.js",
-    "main.js.map": "/http--01-starting-setup/static/js/main.1235dc60.chunk.js.map",
-    "runtime~main.js": "/http--01-starting-setup/static/js/runtime~main.641fdae6.js",
-    "runtime~main.js.map": "/http--01-starting-setup/static/js/runtime~main.641fdae6.js.map",
-    "static/js/2.8831fbd1.chunk.js": "/http--01-starting-setup/static/js/2.8831fbd1.chunk.js",
-    "static/js/2.8831fbd1.chunk.js.map": "/http--01-starting-setup/static/js/2.8831fbd1.chunk.js.map",
-    "static/css/3.c473469c.chunk.css": "/http--01-starting-setup/static/css/3.c473469c.chunk.css",
-    "static/js/3.da9e0f60.chunk.js": "/http--01-starting-setup/static/js/3.da9e0f60.chunk.js",
-    "static/js/3.da9e0f60.chunk.js.map": "/http--01-starting-setup/static/js/3.da9e0f60.chunk.js.map",
-    "index.html": "/http--01-starting-setup/index.html",
-    "precache-manifest.42a9f9e818568b29dc9530c420b3ad23.js": "/http--01-starting-setup/precache-manifest.42a9f9e818568b29dc9530c420b3ad23.js",
-    "service-worker.js": "/http--01-starting-setup/service-worker.js",
-    "static/css/3.c473469c.chunk.css.map": "/http--01-starting-setup/static/css/3.c473469c.chunk.css.map",
-    "static/css/main.8c58686e.chunk.css.map": "/http--01-starting-setup/static/css/main.8c58686e.chunk.css.map"
+    "main.css": "/react_router/static/css/main.ab4d487d.chunk.css",
+    "main.js": "/react_router/static/js/main.3a3e9bae.chunk.js",
+    "main.js.map": "/react_router/static/js/main.3a3e9bae.chunk.js.map",
+    "runtime~main.js": "/react_router/static/js/runtime~main.542ab849.js",
+    "runtime~main.js.map": "/react_router/static/js/runtime~main.542ab849.js.map",
+    "static/js/2.322a8811.chunk.js": "/react_router/static/js/2.322a8811.chunk.js",
+    "static/js/2.322a8811.chunk.js.map": "/react_router/static/js/2.322a8811.chunk.js.map",
+    "index.html": "/react_router/index.html",
+    "precache-manifest.d94ae2f5b638c9d738ff7d9c57dd4c62.js": "/react_router/precache-manifest.d94ae2f5b638c9d738ff7d9c57dd4c62.js",
+    "service-worker.js": "/react_router/service-worker.js",
+    "static/css/main.ab4d487d.chunk.css.map": "/react_router/static/css/main.ab4d487d.chunk.css.map"
   }
 }
